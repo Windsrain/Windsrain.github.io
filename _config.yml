@@ -8,6 +8,7 @@
 name: Windsrain
 # 描述/签名
 description: 东方STG玩家、音游狗一枚
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1379837427&auto=1&height=32"></iframe>
 
 #
 # 下面的设定都是可选的
@@ -31,7 +32,7 @@ navigation:
   - name: 标签
     url: /tags
     
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1379837427&auto=1&height=32"></iframe>
+
 # 每页的文章数
 paginate: 8
 
