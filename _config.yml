@@ -30,7 +30,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-
+    
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1379837427&auto=1&height=32"></iframe>
 # 每页的文章数
 paginate: 8
 
@@ -79,7 +80,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: 
 
 
 #
